@@ -1,0 +1,20 @@
+Course: CMP-777 | Number of Credits: 03 | Graduate
+Course: CMP-711 | Number of Credits: 02 | Graduate
+Course: MAT-723 | Number of Credits: 04 | Graduate
+
+
+Person: Name:                          Juan  | Birth Year: 2131 Employee: Department:         Math Teacher | Employee Number:   1 Faculty: Not Tenured | Number of Courses Taught:   2 | Courses Taught: Course: CMP-777 | Number of Credits: 03 | GraduateCourse: CMP-711 | Number of Credits: 02 | Graduate
+Person: Name:                 Taylor Stevee  | Birth Year: 2321 Employee: Department:               Target | Employee Number:   2 Faculty:  Is Tenured | Number of Courses Taught:   2 | Courses Taught: Course: CMP-777 | Number of Credits: 03 | GraduateCourse: CMP-711 | Number of Credits: 02 | Graduate
+Person: Name:                     MIJUNG JI  | Birth Year: 1980 Employee: Department:            HomeDepot | Employee Number:   3 Faculty: Not Tenured | Number of Courses Taught:   0 | Courses Taught: null
+
+
+Person: Name:                          Karl  | Birth Year: 2132 Employee: Department:            Restarant | Employee Number:   4 GeneralStaff: Duty:  Cleanance
+Person: Name:                        Phillip | Birth Year: 2111 Employee: Department:                 Deli | Employee Number:   5 GeneralStaff: Duty:        OCk
+Person: Name:                       Mohammed | Birth Year: 1989 Employee: Department:            Microsoft | Employee Number:   6 GeneralStaff: Duty:  programer
+
+
+Person: Name:                         Chris  | Birth Year: 2000 Student: studentID: 0001 | Major         Math Teacher |  Undergraduate | Number of Courses Taken:   0 | Courses Taken: null
+Person: Name:                    Jake Cotton | Birth Year: 2016 Student: studentID: 0002 | Major           State Farm |       Graduate | Number of Courses Taken:   2 | Courses Taken: Course: CMP-777 | Number of Credits: 03 | GraduateCourse: MAT-723 | Number of Credits: 04 | Graduate
+Person: Name:                           Luz  | Birth Year: 1234 Student: studentID: 0003 | Major                Pilot |  Undergraduate | Number of Courses Taken:   2 | Courses Taken: Course: CMP-711 | Number of Credits: 02 | GraduateCourse: MAT-723 | Number of Credits: 04 | Graduate
+
+
